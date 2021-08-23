@@ -1,5 +1,5 @@
 {
-  "name": "aws-cognito-next",
+  "name": "@kotn/aws-cognito-next",
   "version": "3.0.1",
   "description": "",
   "main": "dist/index.js",
